@@ -34,3 +34,5 @@ Nationality: 		GHANAIAN
 Bank Name: 		STANCHART
 Account Number: 	0150405601000
 Branch: 		OPEIBEA
+
+I have added some information to the configuration
