@@ -1,0 +1,36 @@
+--- PERSONNEL BIO-DATA FORM ---
+Surname: 		NKANSAH
+Firstname: 		JENNINGS
+Middle name: 		KONADU
+
+
+Residential Address: 	GA-426-4141
+Street: 		APLITE CLOSE
+City: 			ACCRA
+Region: 		GREATER ACCRA
+
+
+National ID Type: 	GHANA CARD
+National ID Number: 	GHA-727293776-0
+
+
+Mobile Number: 		0556566861, 0209104452
+Personal Email: 	JENNINGSNKANSAH@GMAIL.COM
+
+
+Date of Birth: 		DECEMBER 2, 1983
+Marital Status: 	MARRIED
+
+
+Social Security Number: E018312020013
+Taxpayer Identification Number (TIN): P001951915X
+
+
+Start Date: 		MARCH 1, 2022
+Nationality: 		GHANAIAN
+
+
+--- BANK ACCOUNT DETAILS ---
+Bank Name: 		STANCHART
+Account Number: 	0150405601000
+Branch: 		OPEIBEA
